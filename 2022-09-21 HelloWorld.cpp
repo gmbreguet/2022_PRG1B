@@ -1,19 +1,23 @@
 //---------------------------------------------------------
-// Demo           : 01_HelloWorld
-// Fichier        : 01_HelloWorld.cpp
+// Demo           : 2022-09-21
+// Fichier        : 2022-09-21.cpp
 // Auteur(s)      : BREGUET Guy-Michel
-// Date           : 2021-10-07
-// But            : premier programme en C++
+// But            : demo en classe PRG1B
 // Modifications  :
 // Remarque(s)    : NILL
 //---------------------------------------------------------
 
 #include <iostream>
-#include <cstdio>
+#include <cstdlib>
 
 using namespace std;
 
 int main () {
-   cout << "Hello World" << endl;
-   return 0;
+
+   cout << "Bonjour la classe PRG1B ;)"
+        << endl;
+
+   cout << "valeur : " << 3 << endl;
+
+   return EXIT_SUCCESS;
 }
