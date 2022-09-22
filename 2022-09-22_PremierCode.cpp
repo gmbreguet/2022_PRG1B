@@ -11,7 +11,7 @@ import iostream
 
 use name space
 
-int main {
+int Main {
    cout < "Bienvenus en PRG1" < end
    retourn
 }
