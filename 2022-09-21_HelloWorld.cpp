@@ -1,6 +1,6 @@
 //---------------------------------------------------------
-// Demo           : 2022-09-21
-// Fichier        : 2022-09-21.cpp
+// Demo           : 2022-09-21_HelloWorld
+// Fichier        : 2022-09-21_HelloWorld.cpp
 // Auteur(s)      : BREGUET Guy-Michel
 // But            : demo en classe PRG1B
 // Modifications  :
