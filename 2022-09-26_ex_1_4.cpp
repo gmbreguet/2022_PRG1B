@@ -1,6 +1,6 @@
 //---------------------------------------------------------
-// Demo           : 2022-09-26
-// Fichier        : 2022-09-26_base.cpp
+// Demo           : 2022-09-26_ex_1_4
+// Fichier        : 2022-09-26_ex_1_4.cpp
 // Auteur(s)      : BREGUET Guy-Michel
 // But            : demo en classe PRG1B (ex 1.4)
 // Modifications  :
