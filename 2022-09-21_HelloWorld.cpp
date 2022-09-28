@@ -17,7 +17,7 @@ int main () {
    cout << "Bonjour la classe PRG1B ;)"
         << endl;
 
-   cout << "valeur : " << 3 << endl;
+   cout << "valeur : " << 3/0 << endl;
 
    return EXIT_SUCCESS;
 }
