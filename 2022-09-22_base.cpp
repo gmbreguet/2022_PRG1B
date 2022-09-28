@@ -1,6 +1,6 @@
 //---------------------------------------------------------
-// Demo           : 2022-09-21_HelloWorld
-// Fichier        : 2022-09-21_HelloWorld.cpp
+// Demo           : 2022-09-22
+// Fichier        : 2022-09-22_base.cpp
 // Auteur(s)      : BREGUET Guy-Michel
 // But            : demo en classe PRG1B
 // Modifications  :
@@ -14,10 +14,19 @@ using namespace std;
 
 int main () {
 
-   cout << "Bonjour la classe PRG1B ;)"
-        << endl;
+   int main = 3;
 
-   cout << "valeur : " << 3/0 << endl;
+   int BLEU  = 9,
+       VERT  = 0,
+       ROUGE = 3;
+
+   int monEntier = BLEU + 1.2;     // initialisation
+
+   cout << "monEntier : " << monEntier << endl;
+
+   monEntier = 12;            // affectation
+
+   cout << "monEntier : " << monEntier << endl;
 
    return EXIT_SUCCESS;
 }
