@@ -15,8 +15,6 @@ using namespace std;
 
 int main() {
 
-   cout << setprecision(20);  // nbre chiffres après la virgule
-
    int i = 1;
 
    cout << ++i << i << endl;
