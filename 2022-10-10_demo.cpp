@@ -38,8 +38,9 @@ int main() {
 
    cout << fixed << setprecision(20);
    cout << 1 / 3  << endl; // division entière ;)
-   cout << 1 / 3. << endl; // division entière ;)
+   cout << 1 / 3. << endl; //
 
+   // comparaison entre réelles => DANGER
    cout << ( 1 / 3. == 0.33333333333) << endl;
 
    return EXIT_SUCCESS;
