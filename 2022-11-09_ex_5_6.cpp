@@ -57,6 +57,13 @@ int& min(int tab[], size_t TAILLE) {
 }
 
 //--------------------------------------------------
+// retourne un pointeur sur un tableau rendu à la mémoire
+//int[] creerTab(size_t taille) {
+//   int tab[taille];
+//   return tab;
+//}
+
+//--------------------------------------------------
 int main () {
 
    int tab[] = {0, 1, 2, 3, 4, 5, 6, -7, 8, 9};
@@ -77,6 +84,9 @@ int main () {
 //   cout << endl;
 //   int tabVide[0] = {};
 //   cout << "minimum : " << min(tabVide, 0);
+
+
+   int nouveauTab[] = creerTab(10);
 
    cout << endl;
    return EXIT_SUCCESS;
