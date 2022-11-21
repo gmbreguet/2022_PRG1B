@@ -25,7 +25,7 @@ int main () {
          vector<int> vect = {2, 3, 5, 7, 11};
 
 
-   vector<int>::iterator       it1 = vect.begin();    // RW
+   vector<int>::iterator       it1 = vect.begin();   // RW
    vector<int>::const_iterator it2 = VECT.begin();   // RO
 
 //   ++it1;
